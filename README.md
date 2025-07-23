@@ -15,8 +15,8 @@ A real-time collaborative document editing web application inspired by **Google 
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: HTML, CSS, JavaScript, Quill.js
-- **Backend**: Node.js, Express.js, Socket.IO
+- **Frontend**: HTML, CSS, JavaScript, Quill.js  
+- **Backend**: Node.js, Express.js, Socket.IO  
 - **Deployment**: Heroku (Procfile included)
 
 ---
@@ -65,13 +65,12 @@ gdocsclone/
 
 ---
 
-
 ## 📌 Future Improvements
 
-- User authentication
-- Document saving and loading from a database
-- Version history
-- Comments and suggestions
+- 🔐 User authentication  
+- 💾 Document saving and loading from a database  
+- 🕓 Version history  
+- 💬 Comments and suggestions
 
 ---
 
